@@ -12,5 +12,6 @@ Senior front-end developer with over 7 years of experience in e-commerce and fin
 - **Spanish**: Basic
 
 ## Other places you can find me
+- [Twitch](https://www.twitch.tv/hillaryhp)
 - [LinkedIn](https://www.linkedin.com/in/hillarysousa)
 - [My website/portfolio](https://hillarysousa.com.br/)
