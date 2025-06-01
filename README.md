@@ -26,7 +26,7 @@ I also stream live coding sessions on Twitch, sharing a bit of my daily routine 
   #### 📍 Where to find me
   - [Twitch](https://www.twitch.tv/hillaryhp)  
   - [LinkedIn](https://www.linkedin.com/in/hillarysousa)  
-  - [My website/portfolio](https://hillarysousa.com.br/)
+  - [My website/portfolio](https://hillarysousa.com.br/en)
 
 </details>
 
