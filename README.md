@@ -9,9 +9,9 @@
   
   ### 🇺🇸 English
   
-  Senior front-end developer with over 9 years of experience in e-commerce and financial market projects.  
-  Currently working at iFood and pursuing a postgraduate degree in Software Engineering.  
-  I also stream live coding sessions on Twitch, sharing a bit of my daily routine as a developer.  
+ Senior front-end developer with over 9 years of experience in e-commerce and financial market projects.
+Currently working at iFood and holding a postgraduate degree in Software Engineering.
+I also stream live coding sessions on Twitch, sharing a bit of my daily routine as a developer.
   <a href="mailto:contato@hillarysousa.com.br">Open to freelance jobs — feel free to reach out by email.</a>
 
   #### 👩🏽‍💻 Tech Stack  
@@ -37,9 +37,9 @@
   
   ### 🇧🇷 Português
 
-  Desenvolvedora front-end sênior com mais de 9 anos de experiência em projetos de e-commerce e mercado financeiro.  
-  Atualmente trabalho no iFood e curso pós-graduação em Engenharia de Software.  
-  Também faço lives de programação na Twitch, mostrando um pouco da rotina como desenvolvedora.  
+Desenvolvedora front-end sênior com mais de 9 anos de experiência em projetos de e-commerce e mercado financeiro.
+Atualmente trabalho no iFood e sou pós-graduada em Engenharia de Software.
+Também faço lives de programação na Twitch, mostrando um pouco da rotina como desenvolvedora.
   <a href="mailto:contato@hillarysousa.com.br">Disponível para freelas – entre em contato por e-mail.</a>
 
   #### 👩🏽‍💻 Tecnologias  
