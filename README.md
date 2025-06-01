@@ -15,7 +15,7 @@ I also stream live coding sessions on Twitch, sharing a bit of my daily routine 
   <a href="mailto:contato@hillarysousa.com.br">Open to freelance jobs — feel free to reach out by email.</a>
 
   #### 👩🏽‍💻 Tech Stack  
-  ![skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,sass,php,wordpress,mysql,md,git,figma,bash,vscode&theme=light)
+  ![skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,sass,tailwind,md,git,figma,bash,vscode&theme=light)
 
   #### 🌍 Languages (not the tech ones)
   - **Portuguese**: Native  
