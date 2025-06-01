@@ -43,7 +43,7 @@ Também faço lives de programação na Twitch, mostrando um pouco da rotina com
   <a href="mailto:contato@hillarysousa.com.br">Disponível para freelas – entre em contato por e-mail.</a>
 
   #### 👩🏽‍💻 Tecnologias  
-  ![skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,sass,php,wordpress,mysql,md,git,figma,bash,vscode&theme=light)
+  ![skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,sass,tailwind,md,git,figma,bash,vscode&theme=light)
 
   #### 🌍 Idiomas
   - **Português**: Nativo  
